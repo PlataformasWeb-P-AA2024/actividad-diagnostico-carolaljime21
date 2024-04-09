@@ -20,15 +20,24 @@
 - git pull
 
 ### 3. Ejemplifique el comando de Linux: mv
-### 4. Ejemplifique el comando de Linux: cp
-### 5. Ejemplifique el comando de Linux: mkdir
-### 6. Ejemplifique el comando de Linux: ls
-### 7. Ejemplifique el comando de Linux: pwd
-- El comando pwd me indica la ruta en la que me encuentro en el momento
-![](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-carolaljime21/blob/main/imagenes/pwd.png){width='100px'}
+- El comando mv lo uso para mover archivos de una carpeta a otra o para renombrar archivos.
 
-### 8. Ejemplifique el comando de Linux: touch
-### 9. Ejemplifique el comando de Linux: grep
-### 10. Ejemplifique el comando de Linux: cd
-### 11. Ejemplifique el comando de Linux: mv
-### 12. Ejemplifique el comando de Linux: cat
+
+### 4. Ejemplifique el comando de Linux: cp
+- El comando cp se lo usa para copiar archivos y renombrarlos dentro del mismo repositorio, o copiarlo en varios repositorios.
+
+### 5. Ejemplifique el comando de Linux: mkdir
+- El comando mkdir es para crear nuevas carpetas dentro de nuestro repositorio.
+
+### 6. Ejemplifique el comando de Linux: ls
+- El comando ls se ocupa para enlistar los archivos que hay dentro de un repositorio.
+
+### 7. Ejemplifique el comando de Linux: pwd
+- El comando pwd me indica la ruta en la que me encuentro en el momento.
+![](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-carolaljime21/blob/main/imagenes/pwd.png)
+
+### 8. Ejemplifique el comando de Linux: cd
+- El comando cd, se lo usa para navegar entre carpetas hasta llegar al repositorio deseado.
+
+### 9. Ejemplifique el comando de Linux: cat
+- El comando cat, se lo usa para poder mostrar lo que se encuentra dentro de un archivo.
