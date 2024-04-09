@@ -2,7 +2,21 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
+- java
+- python
+- scala
+- spark
+- c++
+- php
+- R
+
 ### 2. ¿Qué comandos conoce de GIT?
+- git clone
+- git config --global user.name
+- git config --global user.email
+- git add .
+- git commit
+
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
