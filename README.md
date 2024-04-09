@@ -16,6 +16,8 @@
 - git config --global user.email
 - git add .
 - git commit
+- git push
+- git pull
 
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
