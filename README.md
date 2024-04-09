@@ -25,7 +25,8 @@
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
 - El comando pwd me indica la ruta en la que me encuentro en el momento
-![pwd](C:/Users/UTPL/Desktop/pwd.png){width=width height=height}
+![pwd](C:/Users/UTPL/Desktop/pwd.png)
+
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
