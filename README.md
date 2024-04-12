@@ -46,3 +46,13 @@
 ### 9. Ejemplifique el comando de Linux: cat
 - El comando cat, se lo usa para poder mostrar lo que se encuentra dentro de un archivo.
 ![](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-carolaljime21/blob/main/imagenes/cat.png)
+
+
+### 9. Ejemplifique el comando de Linux: grep
+- El comando grep nos ayuda con la busqueda de palabras dentro de archivos que tengamos en nuestro repositorio.
+![](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-carolaljime21/blob/main/imagenes/Captura%20desde%202024-04-12%2016-02-22.png)
+
+
+### 10. Ejemplifique el comando de Linux: touch
+- La funcion de touch es crear archivos .txt
+![](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-carolaljime21/blob/main/imagenes/Captura%20desde%202024-04-12%2015-57-56.png)
